@@ -1,0 +1,30 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "author": "",
+  "description": "",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "",
+  "ignore": [
+    ".gitignore",
+    ".jshintrc",
+    ".npmignore",
+    ".travis.yml",
+    "Gruntfile.js",
+    "doc/",
+    "tests/",
+    "libs/",
+    "package.json"
+  ],
+  "keywords": [
+    "amd-utils",
+    "functional",
+    "utilities"
+  ],
+  "license": "MIT",
+  "moduleType": "amd"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "main": "",
+  "url": "",
+  "repository": "",
+  "dependencies": {
+    "mout": "0.x",
+    "grunt": "0.4.2",
+    "grunt-cli": "0.1.x",
+    "load-grunt-tasks": "~0.2.1",
+    "grunt-contrib-yuidoc": "0.4.0",
+    "grunt-contrib-watch": "0.6.1",
+    "grunt-tdd": "0.2.2"
+  },
+  "keywords": [
+    "javascript"
+  ]
+}
